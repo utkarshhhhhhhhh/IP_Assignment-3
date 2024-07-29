@@ -1,0 +1,31 @@
+Advantages Of Using OO:
+1.) The code is simple to understand. Walking through the code becomes very easy as the reading and accessibility of the code is much-much simpler instead of using dictionaries and other suitable file structures.
+2.) Moreover, addition of various other features becomes very easy as much of our requirements are fullfuilled beforehand.
+
+Disadvantages Of Using OO:
+1.) OOPs is a tough concept to get grasp of....
+2.) Keeping in mind of every function and variables is a very hectic task.
+
+Advantages Of Using Dictionaries:
+1.) Codes done using dictionaries are uually short and simpler.
+2.) Codes using dictionaries are usually better to write with as they are as they are a simpler data structure.
+
+Disadvantages Of Using Dictionaries:
+1.) Debugging and Error finding of code is a gigantic task.
+2.) Using features like nesting of dictionaries,list,etc is a very difficult task.
+
+Using Time Module:
+Conclusion: Code written using OO is slower than code written using dictionaries.
+
+Performance comparison for grading operation (give in each line: value of N; time taken by two approaches in seconds, and which is faster and by how much).
+1. N:1000
+2. Time by OO:   26332.50594139099
+3. Time by dictionary:   25950.22702217102
+4. X is faster; fraction of time x took is: Dictionary
+
+Performance comparison for search operation (give in each line: value of N; time taken by two approaches in seconds, and which is faster and by how much).
+1. N:1000
+2. Time by OO:   50257.081747055054
+3. Time by dictionary:  40939.01300430298
+4. X is faster; fraction of time x took is: Dictionary
+
